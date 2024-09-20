@@ -13,6 +13,7 @@ def custom_write(file_name, string:list):
 
 
 
+
 string = [
     'Text for tell.',
     'Используйте кодировку utf-8.',
