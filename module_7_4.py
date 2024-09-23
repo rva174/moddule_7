@@ -14,7 +14,6 @@ print('Волшебники данных решили задачи за {}'' c!'
 
 if score_1 > score_2 or score_1 == score_2 and team1_time  > team2_time:
     print('Победа команды Мастера кода!')
-
 elif score_1 < score_2 or score_1 == score_2 and team1_time < team2_time:
     print('Победа команды Волшебники данных!')
 else:
