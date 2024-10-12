@@ -21,7 +21,6 @@ def read_info(name):
 # # Линейный вызов
 # filenames = [f'file {number}.txt' for number in range(1,5)]
 # start_time = datetime.now()
-# start = datetime.now()
 # for file in filenames:
 #     read_info(file)
 # total_time = datetime.now() - start_time
